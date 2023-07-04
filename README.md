@@ -1,5 +1,5 @@
 ### Hi there 👋
-![我的练习情况](http://luogu.wao3.cn/api/practice?id=21347&dark_mode=true&card_width=603)
+![我的练习情况](luogu.wao3.cn/api/practice?id=21347&dark_mode=true&card_width=603)
 <!--
 **GiantGKL/GiantGKL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
