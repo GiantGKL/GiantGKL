@@ -9,7 +9,7 @@
 
 [![Giant_GKL's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiantGKL&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Giant_GKL's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GiantGKL&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+[![Giant_GKL's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PlagueWZK&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **GiantGKL/GiantGKL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
