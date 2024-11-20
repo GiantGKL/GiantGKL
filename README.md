@@ -1,11 +1,7 @@
 ### 有朝一日，我们必将理解那些不能理解的东西
 
-- 2023级[曲阜师范大学](https://www.qfnu.edu.cn/)软件工程专业
-- 前 OIer（不想提记得痛苦回忆）
-- 喜欢学除了学校教的之外的东西
-- 喜欢打游戏（偏向于独立游戏）
 - 啥也不会
-- C++在学了
+- 探索前端中...
 
 [![Giant_GKL's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiantGKL&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
