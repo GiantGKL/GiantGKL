@@ -1,7 +1,7 @@
 ### 有朝一日，我们必将理解那些不能理解的东西
 
 - 啥也不会
-- 探索前端中...
+- 摆烂中
 
 [![Giant_GKL's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiantGKL&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
