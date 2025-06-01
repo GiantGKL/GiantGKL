@@ -7,7 +7,7 @@
 
 [![Giant_GKL's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GiantGKL&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PlagueWzk&layout=compact&theme=radical)](https://github.com/GiantGKL)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiantGKL&layout=compact&theme=algolia)](https://github.com/GiantGKL)
 
 <!--
 **GiantGKL/GiantGKL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
